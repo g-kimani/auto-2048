@@ -1,0 +1,15 @@
+{
+  "name": "auto-2048",
+  "version": "1.0.0",
+  "description": "link to original repo: https://github.com/gabrielecirulli/2048",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.79.5"
+  }
+}
